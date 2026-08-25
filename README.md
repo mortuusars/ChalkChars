@@ -4,4 +4,9 @@
   
 Addon to the mod [Chalk](https://github.com/mortuusars/Chalk), that adds letters, numbers and punctuation symbols.\
 *Requires Chalk version 2.0+*
+
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chalk-chars)
+ | 
+[Modrinth](https://modrinth.com/mod/chalk-chars)
+
 </div>
