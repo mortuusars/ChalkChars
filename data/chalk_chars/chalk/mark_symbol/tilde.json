@@ -1,0 +1,6 @@
+{
+  "texture": "chalk_chars:block/mark/tilde",
+  "group": "punctuation",
+  "group_priority": 8,
+  "orientation_behavior": "up_down_cardinal"
+}

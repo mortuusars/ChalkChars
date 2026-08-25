@@ -1,0 +1,6 @@
+{
+  "texture": "chalk_chars:block/mark/two",
+  "group": "numbers",
+  "group_priority": 2,
+  "orientation_behavior": "up_down_cardinal"
+}

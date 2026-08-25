@@ -1,0 +1,6 @@
+{
+  "texture": "chalk_chars:block/mark/backslash",
+  "group": "punctuation",
+  "group_priority": 23,
+  "orientation_behavior": "up_down_cardinal"
+}

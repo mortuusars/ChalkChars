@@ -1,0 +1,6 @@
+{
+  "texture": "chalk_chars:block/mark/left_parenthesis",
+  "group": "punctuation",
+  "group_priority": 14,
+  "orientation_behavior": "up_down_cardinal"
+}

@@ -1,0 +1,6 @@
+{
+  "texture": "chalk_chars:block/mark/dollar",
+  "group": "punctuation",
+  "group_priority": 29,
+  "orientation_behavior": "up_down_cardinal"
+}

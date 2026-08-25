@@ -1,0 +1,6 @@
+{
+  "texture": "chalk_chars:block/mark/p_uppercase",
+  "group": "letters",
+  "group_priority": 30,
+  "orientation_behavior": "up_down_cardinal"
+}

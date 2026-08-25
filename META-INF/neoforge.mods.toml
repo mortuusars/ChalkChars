@@ -1,0 +1,20 @@
+modLoader="javafml"
+license="MIT"
+loaderVersion="[4,)"
+issueTrackerURL="https://github.com/mortuusars/ChalkChars/issues"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/chalk_chars"
+logoFile="icon.png"
+
+[[mods]]
+modId="chalk_chars"
+version="1.0.0"
+displayName="Chalk: Chars"
+authors="mortuusars"
+description="Adds letters, numbers and punctuation symbols to Chalk"
+
+[[dependencies.chalk_chars]]
+modId = "chalk"
+type = "required"
+versionRange = "[2.0.0,)"
+ordering = "NONE"
+side = "BOTH"

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "chalk_chars",
+  "version": "1.0.0",
+  "name": "Chalk: Chars",
+  "description": "Adds letters, numbers and punctuation symbols to Chalk",
+  "authors": [
+    "mortuusars"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/chalk_chars",
+    "sources": "https://github.com/mortuusars/ChalkChars"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "depends": {
+    "minecraft": "*",
+    "fabric": "*",
+    "chalk": ">=2.0.0"
+  }
+}

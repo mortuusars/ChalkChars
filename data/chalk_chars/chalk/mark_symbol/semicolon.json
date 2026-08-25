@@ -1,0 +1,6 @@
+{
+  "texture": "chalk_chars:block/mark/semicolon",
+  "group": "punctuation",
+  "group_priority": 2,
+  "orientation_behavior": "up_down_cardinal"
+}

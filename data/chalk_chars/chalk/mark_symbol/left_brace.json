@@ -1,0 +1,6 @@
+{
+  "texture": "chalk_chars:block/mark/left_brace",
+  "group": "punctuation",
+  "group_priority": 18,
+  "orientation_behavior": "up_down_cardinal"
+}

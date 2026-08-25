@@ -1,0 +1,6 @@
+{
+  "texture": "chalk_chars:block/mark/plus",
+  "group": "punctuation",
+  "group_priority": 24,
+  "orientation_behavior": "up_down_cardinal"
+}
