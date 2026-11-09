@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "chalk_chars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Chalk: Chars",
   "description": "Adds letters, numbers and punctuation symbols to Chalk",
   "authors": [
@@ -16,7 +16,6 @@
   "environment": "*",
   "depends": {
     "minecraft": "*",
-    "fabric": "*",
     "chalk": ">=2.0.0"
   }
 }

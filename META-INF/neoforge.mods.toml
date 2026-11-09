@@ -7,7 +7,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="chalk_chars"
-version="1.0.0"
+version="1.0.1"
 displayName="Chalk: Chars"
 authors="mortuusars"
 description="Adds letters, numbers and punctuation symbols to Chalk"

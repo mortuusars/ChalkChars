@@ -4,7 +4,7 @@ import zipfile
 
 ROOT = Path(__file__).parent
 GENERATED = ROOT / "generated"
-JAR = ROOT / "chalk-chars-1.0.0.jar"
+JAR = ROOT / "chalk-chars-1.0.1.jar"
 
 INCLUDE = {
     Path("assets"),
